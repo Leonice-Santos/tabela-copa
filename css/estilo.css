@@ -1,0 +1,209 @@
+body {
+	font-family: Vernada, sans-serif;
+	background-color: pink;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../img/mascote.jpg);
+}
+
+h1 {
+	text-align: center;
+	color: #900d22;
+}
+	
+	.copa{
+		border-bottom: 3px solid #900d22;
+		padding-bottom: 5px;
+	}
+	
+	.russia{
+		list-style-image: url(../img/russia.png);
+	}
+
+	.arabia-saudita{
+		list-style-image: url(../img/arabia.png);
+	}
+
+	.egito{
+		list-style-image: url(../img/egito.png);
+	}
+
+	.uruguai{
+		list-style-image: url(../img/uruguai.png);
+	}
+
+	.portugal{
+		list-style-image: url(../img/portugal.png);
+	}
+
+	.espanha{
+		list-style-image: url(../img/espanha.png);
+	}
+
+	.marrocos{
+		list-style-image: url(../img/marrocos.png);
+	}
+
+	.ira{
+		list-style-image: url(../img/ira.png);
+	}
+
+	.franca{
+		list-style-image: url(../img/franca.png);
+	}
+
+	.australia{
+		list-style-image: url(../img/australia.png);
+	}
+
+	.peru{
+		list-style-image: url(../img/peru.png);
+	}
+
+	.dinamarca{
+		list-style-image: url(../img/dinamarca.png);
+	}
+
+	.argentina{
+		list-style-image: url(../img/argentina.png);
+	}
+
+	.islandia{
+		list-style-image: url(../img/islandia.png);
+	}
+
+	.croacia{
+		list-style-image: url(../img/croacia.png);
+	}
+
+	.nigeria{
+		list-style-image: url(../img/nigeria.png);
+	}
+
+	.brasil{
+		list-style-image: url(../img/brasil.png);
+	}
+
+	.suica{
+		list-style-image: url(../img/suica.png);
+	}
+
+	.costa-rica{
+		list-style-image: url(../img/costarica.png);
+	}
+
+	.servia{
+		list-style-image: url(../img/servia.png);
+	}
+
+	.alemanha{
+		list-style-image: url(../img/alemanha.png);
+	}
+
+	.mexico{
+		list-style-image: url(../img/mexico.png);
+	}
+
+	.suecia{
+		list-style-image: url(../img/suecia.png);
+	}
+
+	.coreia-do-sul{
+		list-style-image: url(../img/coreiadosul.png);
+	}
+
+	.belgica{
+		list-style-image: url(../img/belgica.png);
+	}
+
+	.panama{
+		list-style-image: url(../img/panama.png);
+	}
+
+	.tunisia{
+		list-style-image: url(../img/tunisia.png);
+	}
+
+	.inglaterra{
+		list-style-image: url(../img/inglaterra.png);
+	}
+
+	.polonia{
+		list-style-image: url(../img/polonia.png);
+	}
+
+	.senegal{
+		list-style-image: url(../img/senegal.png);
+	}
+
+	.colombia{
+		list-style-image: url(../img/colombia.png);
+	}
+
+	.japao{
+		list-style-image: url(../img/japao.png);
+	}
+
+
+	ul {
+		float: left;
+		margin-right: 30px;
+	}
+
+
+	table {
+		float: left;
+		border-collapse: collapse;
+		padding-top: 10px
+		margin-top: 30px;
+	}
+
+	.data{
+		padding-right: 10px;
+
+	}
+
+	.hora{
+		padding-right: 10px;
+		color: blue;
+
+	}
+
+	.pais1{
+		padding-left: 20px;
+		text-align: right;
+	}
+
+	.pais2{
+		padding-right: 30px;
+	}
+
+	tr{
+		border-bottom: 2px; solid #c1c1c1;
+		
+
+	}
+
+	td{
+		padding-top: 8px;
+		color: gray;
+	}
+
+}
+	div{
+		background: white;
+		padding-left: 15px;
+		margin-bottom: 15px;
+
+		
+	
+}
+
+.identificador-grupo{
+	float: right;
+	background: #cc0710;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px;
+	margin-right: 850px;
+	margin-top: -3px;
+}
